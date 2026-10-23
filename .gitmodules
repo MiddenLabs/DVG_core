@@ -1,0 +1,3 @@
+[submodule "FROID_core"]
+	path = FROID_core
+	url = https://github.com/MiddenLabs/FROID_core.git
